@@ -16,8 +16,8 @@ I integrated an AI-powered chatbot that acts as my virtual assistant. Instead of
 
 This project helped me strengthen my skills in modern frontend development, AI integration, and creating engaging user experiences.
 
-🌐 **Portfolio:** [Add Your Portfolio Link]
-🎥 **Demo Video:** [Add Video Link]
+🌐 **Portfolio:** [[Add Your Portfolio Link](https://github.com/noorthedev/Personal_Portfolio-/tree/main)]
+🎥 **Demo Video:** [[Add Video Link](https://personal-portfolio-umber-one.vercel.app)]
 
 I’d love to hear your feedback and suggestions. Feel free to check it out and share your thoughts in the comments! 👇
 
